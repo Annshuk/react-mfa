@@ -11,9 +11,6 @@ Its a React application developed using create react app and acting as shell(Con
 ### Header -
 Its a React application developed using create react app and acting as micro application which renders header of the application
 
-### Left sidebar -
-Its an Angular application developed using angular cli and acting as micro application which renders left sidebar of the application
-
 ### Right sidebar -
 Its a Vue application developed using vue cli and acting as micro application which renders right sidebar of the application
 
