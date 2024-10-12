@@ -1,7 +1,7 @@
 
 # React application with micro front end architecture
 
-This is a demonstration project to show multiple micro application developed in different frameworks`(like React,Angular,Vue,Svelte)` can exist inside same application.Thanks to Webpack 5 module federation
+This is a demonstration project to show multiple micro application developed in different frameworks`(like React,Vue,Svelte)` can exist inside same application.Thanks to Webpack 5 module federation
 
 ## components
 
